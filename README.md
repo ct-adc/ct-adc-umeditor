@@ -1,6 +1,6 @@
 # ct-adc-ueditor
 
-> 基于百度 Ueditor 的 VueJS 2.0 组件
+> 基于百度 UMeditor 的 VueJS 2.0 组件
 
 ## 快速开始
 

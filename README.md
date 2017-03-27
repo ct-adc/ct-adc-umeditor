@@ -5,6 +5,15 @@
 ## 快速开始
 
 ``` bash
+install ct-adc-umeditor
+```
+
+## 查看效果
+View [demo](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-ueditor/blob/master/view/demo.html).
+
+Or run:
+
+``` bash
 # install dependencies
 npm install
 
@@ -17,11 +26,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-## 查看效果
-
-View [demo](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-ueditor/blob/master/view/demo.html).
-
 
 ## 目录结构
 

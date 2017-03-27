@@ -32,7 +32,7 @@ npm run build --report
 核心代码目录如下:
 
 ```
-ct-adc-ueditor/
+ct-adc-umeditor/
 ...
 └── src/
     └── component

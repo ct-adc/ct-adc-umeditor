@@ -1,6 +1,6 @@
 {
   "name": "ct-adc-umeditor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Vue.js 2.0 project based on UMeditor",
   "author": "RoamIn <ivill@live.com>",
   "private": false,

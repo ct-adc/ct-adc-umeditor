@@ -2,6 +2,10 @@
 
 > 基于百度 UMeditor 的 VueJS 2.0 组件
 
+## 警告
+
+不建议使用本组件，UMeditor 本身问题很多，没有 UEditor 稳定
+
 ## 快速开始
 
 ``` bash
